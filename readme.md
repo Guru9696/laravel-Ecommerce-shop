@@ -106,7 +106,7 @@ Once the application is set up, you can start exploring the various features:
 - Select different product variants and add them to the cart.
 - Add products to the cart as a guest or logged-in user.
 - Proceed to checkout using Stripe.
-- Receive email notifications for abandoned carts and order confirmations.
+- Receive email notifications for abandoned carts and order confirmations mail.
 - View your order history from the "My Orders" page.
 
 
