@@ -109,4 +109,7 @@ Once the application is set up, you can start exploring the various features:
 - Receive email notifications for abandoned carts and order confirmations mail.
 - View your order history from the "My Orders" page.
 
+## Contact
+For any inquiries or support, please contact [Your Name] at [your-email@example.com].
+
 
